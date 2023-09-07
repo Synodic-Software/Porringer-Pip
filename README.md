@@ -1,2 +1,2 @@
-# Porringer-Pip
-Porringer plugin for `pip`
+# Porringer-Winget
+Porringer plugin for `winget`
